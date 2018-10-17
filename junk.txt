@@ -1,0 +1,35 @@
+Hi Shreekant,
+
+ 
+
+1.       Please find attachment for ReactJs assessment to complete by tomorrow EOD.
+
+ 
+
+2.       Please create a sample app using TS and Knockout which consists of
+
+a.       Complete HTML and CSS RWD app
+
+b.      Included CRUD operations
+
+ 
+
+Please ignore bitbucket account creation, you can create locally and upload that to FTS and share link with me.
+
+ 
+
+Please make sure your app should be properly indented and aligned.
+
+ 
+
+Please let me know if you need anything more information.
+
+ 
+
+Note: Primarily focusing on React App.
+
+ 
+
+Thanks,
+
+Naresh

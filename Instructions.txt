@@ -1,0 +1,27 @@
+
+Before you start:
+
+1.	Set up an account on bitbucket.org.
+2.	Create a repository called ‘Aviva Fizz Buzz name’ where name is your own name.
+3.	Share the repository with tony.harding@aviva.com , lee.powell@aviva.com , tim.page@aviva.com
+4.	Use create-react-app (https://github.com/facebookincubator/create-react-app) to scaffold a basic React application, and commit it to source control.
+
+The application:
+
+•         Should be correctly architected, as if this was a production application.
+•         Should be built using a 'test first’ methodology.
+•         It is not important that you complete every step in the exercise.
+•         It is important that all submitted code is of good quality. Refactor as necessary.
+
+Check in your code to Bitbucket regularly.
+Also, try to commit your code after every step, and label it ‘Step 1’, ‘Step 2’ etc.
+1.     Basic Fizz-Buzz:
+a.     The user should be able to enter a positive integer.
+b.     You should print out, in a vertical list, all of the values between 1 and the entered value.
+c.     Where the number is divisible by 3, you should instead print ‘fizz’.
+d.     Where the number is divisible by 5, you should instead print 'buzz'.
+e.     Where the number is divisible by 3 AND 5, you should instead print ‘fizz buzz’.
+2.     Add validation to ensure the entered value is an integer between 1 and 1000.
+3.     Add styling so 'fizz' is printed in blue, and 'buzz' in green.
+4.     Change the logic so that if today is Wednesday, the words 'wizz' (in blue) and ‘wuzz' (in green) are substituted for 'fizz' and 'buzz'. 
+5.     Amend the application so only 20 values are displayed at a time. Implement ‘Next’ and ‘Previous’ buttons to display the remaining values.
